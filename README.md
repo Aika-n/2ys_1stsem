@@ -10,5 +10,5 @@
 
 家族側は夜間に通知をするかしないかの設定が可能
 
-使用したスプレッドシートは以下だが、編集可にしているので注意
+使用したスプレッドシートは以下ですが、編集可にしているので注意
 https://docs.google.com/spreadsheets/d/1A8xNzRBLP-VJo1UpwCCGukMfOuj2uKsFbgnckyh9-UA/edit?usp=sharing
